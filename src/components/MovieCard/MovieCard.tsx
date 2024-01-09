@@ -18,7 +18,8 @@ export const MovieCard: React.FC<Props> = ({ movie, onDelete }) => {
         >
           x
         </button>
-        <figure className="image is-4by3">s
+        <figure className="image is-4by3">
+          s
           <img
             data-cy="moviePoster"
             src={movie?.imgUrl}

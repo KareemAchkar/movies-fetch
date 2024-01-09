@@ -1,6 +1,6 @@
 .card {
   background-color: black;
-  border: 2px solid rgba(255, 255, 255, 0.052);
+  border: 2px solid rgba(255, 255, 255, 0.05);
 }
 
 .title {
@@ -16,9 +16,6 @@
   margin: 6px;
   color: rgba(219, 208, 208, 0.48);
   cursor: pointer;
-}
-
-.delete-icon {
   height: 20px;
   width: 20px;
 }
