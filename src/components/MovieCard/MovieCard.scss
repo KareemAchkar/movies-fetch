@@ -1,3 +1,28 @@
+.card {
+  background-color: black;
+  border: 2px solid rgba(255, 255, 255, 0.052);
+}
+
+.title {
+  color: white;
+}
+
 .card-image img {
   object-fit: contain;
+}
+
+.delete-icon {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 6px;
+  color: rgba(219, 208, 208, 0.48);
+  cursor: pointer;
+}
+
+.delete-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.content {
+  color: white;
 }

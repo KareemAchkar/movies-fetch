@@ -3,6 +3,7 @@
   grid-template: auto / 1fr 400px;
   column-gap: 20px;
   min-height: 100vh;
+  background-color: black ;
 }
 
 .page-content {
@@ -11,5 +12,5 @@
 
 .sidebar {
   padding: 20px;
-  border-left: 1px solid lightgray;
+  border-left: 1px solid rgba(211, 211, 211, 0.195);
 }
